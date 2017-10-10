@@ -21,7 +21,8 @@
         "dmstr/yii2-adminlte-asset": "2.*",
         "schmunk42/yii2-giiant": "@stable",
         "kartik-v/yii2-widget-datepicker": "@dev",
-        "kartik-v/yii2-widget-timepicker": "*"
+        "kartik-v/yii2-widget-timepicker": "*",
+        "fxp/composer-asset-plugin": "^1.4"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
@@ -30,7 +31,8 @@
 
         "codeception/base": "^2.2.3",
         "codeception/verify": "~0.3.1",
-        "codeception/specify": "~0.4.3"
+        "codeception/specify": "~0.4.3",
+        "purrweb/yii2-heroku": "*"
     },
     "config": {
         "process-timeout": 1800,
